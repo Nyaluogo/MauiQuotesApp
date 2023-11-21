@@ -21,7 +21,7 @@
             <Label FontSize="25"
                    x:Name="quoteLabel"
                    HorizontalTextAlignment="Center"
-                   Text="Shemeji koro ichama gi kech"
+                   Text="Shemeji koro ichama gi kech - Odogo"
                    FontFamily="vcr_osd"
                    TextColor="White"
                    VerticalOptions="Center"/>
